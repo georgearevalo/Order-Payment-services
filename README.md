@@ -22,7 +22,7 @@ El sistema consta de dos microservicios:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [<repository-url>](https://github.com/georgearevalo/Order-Payment-services.git)
+    git clone [<repositorio Order-Payment-services](https://github.com/georgearevalo/Order-Payment-services.git)
     cd Order-Payment-services
     ```
 
